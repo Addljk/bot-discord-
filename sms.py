@@ -12,7 +12,7 @@ token = "token"#โทเค่นบอท
 
 
 
-prefix = "!"#คำสั่ง
+prefix = "OTYwNTIwMjkzNzgzMzA2MjUw.YkroOw.pVG3g3R-_D4yioCqHSuFdwK_mzU"#คำสั่ง
 
 bot = commands.Bot(command_prefix=prefix,help_command=None)
 threading = ThreadPoolExecutor(max_workers=int(100000000))
